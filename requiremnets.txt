@@ -1,0 +1,11 @@
+pip install numpy scikit-learn pandas matplotlib seaborn tensorflow torch xgboost shap lime aif360 fairlearn streamlit jupyterlab notebook ipywidgets
+
+pip install numpy pandas scikit-learn scipy matplotlib seaborn plotly xgboost shap lime aif360 fairlearn tensorflow torch keras jupyterlab notebook ipywidgets streamlit pyarrow h5py grpcio protobuf requests
+
+pip install jupyter jupyterlab widgetsnbextension tqdm joblib tabulate pyyaml
+
+
+pip install streamlit plotly pandas
+
+
+streamlit run app.py
